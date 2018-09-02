@@ -1,0 +1,11 @@
+ Volume in drive C is Local Disk
+ Volume Serial Number is 9841-A8CE
+
+ Directory of C:\Users\sayem\OneDrive\Documents\GitHub\test---using-command
+
+09/02/2018  01:13 AM    <DIR>          .
+09/02/2018  01:13 AM    <DIR>          ..
+09/02/2018  01:10 AM                 0 test2.txt
+09/02/2018  01:13 AM                 0 text1.txt
+               2 File(s)              0 bytes
+               2 Dir(s)  156,802,699,264 bytes free
